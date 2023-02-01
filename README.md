@@ -1,15 +1,17 @@
 # Pre-Work Introduce Student App
 
-App Description
+App Description:
 
 CodePath Pre-Work Introductory App
 
-App Walk-though
-![Walkthrough](https://user-images.githubusercontent.com/90846030/215926204-10ef2487-f0b2-4741-a65c-5eb7124c3008.gif)
+App Walk-though:
+
+![Walkthrough](https://user-images.githubusercontent.com/90846030/215927046-452fce4f-b066-48a7-8224-d71298f7e918.gif)
 
 
 
-Required Features
+
+Required Features:
 
 [x] 1. App displays an image of a school's logo
 
@@ -24,7 +26,7 @@ Required Features
 [x] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
 
 
-Optional Features
+Optional Features:
 
 [] 1. User can tap a button to change the color of the background view
 
